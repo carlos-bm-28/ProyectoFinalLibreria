@@ -64,7 +64,7 @@ public class DashboardAdmin extends JFrame {
 });
 
         btnUsuarios.addActionListener(e -> new view.mantenimiento.UsuarioMantenimientoForm().setVisible(true));
-        btnReportes.addActionListener(e -> JOptionPane.showMessageDialog(this, "Reportes próximamente"));
+        btnReportes.addActionListener(e -> new view.reportes.ReportesForm().setVisible(true));
         
         btnSalir.addActionListener(e -> {
             int op = JOptionPane.showConfirmDialog(this, "¿Cerrar sesión?", "Salir", JOptionPane.YES_NO_OPTION);

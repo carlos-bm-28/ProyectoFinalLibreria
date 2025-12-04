@@ -12,4 +12,5 @@ public interface LibroDAO {
     List<Libro> listarTodos() throws SQLException;
     List<Libro> buscar(String texto) throws SQLException;
     Libro buscarPorCodigo(String codigo) throws SQLException;
+    
 }

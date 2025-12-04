@@ -1,13 +1,18 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.Main to edit this template
- */
+
 package main;
 
-/**
- *
- * @author carlb
- */
+import view.LoginForm;
+import util.TemaCrisol;
+import javax.swing.*;
+
 public class Main {
-    
+    public static void main(String[] args) {
+        SwingUtilities.invokeLater(() -> {
+            // Aplica el tema Crisol desde el primer milisegundo
+            TemaCrisol.aplicarTemaGlobal();
+            
+            // Abre directamente el Login
+            new LoginForm();
+        });
+    }
 }

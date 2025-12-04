@@ -3,43 +3,29 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/carlb/OneDrive/ProyectoF/ProyectoFinalBiblioteca/src/model/Empleado.java</file>
-            <file>file:/C:/Users/carlb/OneDrive/ProyectoF/ProyectoFinalBiblioteca/src/dao/interfaces/UsuariosDAO.java</file>
-            <file>file:/C:/Users/carlb/OneDrive/ProyectoF/ProyectoFinalBiblioteca/src/model/Ejemplar.java</file>
-            <file>file:/C:/Users/carlb/OneDrive/ProyectoF/ProyectoFinalBiblioteca/src/dao/impl/PrestamoDAOImpl.java</file>
-            <file>file:/C:/Users/carlb/OneDrive/ProyectoF/ProyectoFinalBiblioteca/src/dao/impl/EjemplarDAOImpl.java</file>
+            <file>file:/C:/Users/carlb/OneDrive/ProyectoF/ProyectoFinalBiblioteca/src/view/reportes/Reporte5/GeneradorPDFReporte5.java</file>
+            <file>file:/C:/Users/carlb/OneDrive/ProyectoF/ProyectoFinalBiblioteca/src/view/LoginForm.java</file>
+            <file>file:/C:/Users/carlb/OneDrive/ProyectoF/ProyectoFinalBiblioteca/src/view/reportes/Reporte1/GeneradorPDF.java</file>
+            <file>file:/C:/Users/carlb/OneDrive/ProyectoF/ProyectoFinalBiblioteca/src/view/reportes/Reporte6/Reporte6Form.java</file>
+            <file>file:/C:/Users/carlb/OneDrive/ProyectoF/ProyectoFinalBiblioteca/src/view/reportes/Reporte4/GeneradorPDFReporte4.java</file>
             <file>file:/C:/Users/carlb/OneDrive/ProyectoF/ProyectoFinalBiblioteca/src/view/DashboardEmpleado.java</file>
             <file>file:/C:/Users/carlb/OneDrive/ProyectoF/ProyectoFinalBiblioteca/src/view/proceso/PrestamoForm.java</file>
+            <file>file:/C:/Users/carlb/OneDrive/ProyectoF/ProyectoFinalBiblioteca/src/view/proceso/HistorialPrestamosForm.java</file>
             <file>file:/C:/Users/carlb/OneDrive/ProyectoF/ProyectoFinalBiblioteca/src/main/Main.java</file>
-            <file>file:/C:/Users/carlb/OneDrive/ProyectoF/ProyectoFinalBiblioteca/src/dao/interfaces/EjemplarDAO.java</file>
+            <file>file:/C:/Users/carlb/OneDrive/ProyectoF/ProyectoFinalBiblioteca/src/view/reportes/Reporte2/ReporteSemanalForm.java</file>
+            <file>file:/C:/Users/carlb/OneDrive/ProyectoF/ProyectoFinalBiblioteca/src/view/reportes/Reporte3/GeneradorPDFReporte3.java</file>
+            <file>file:/C:/Users/carlb/OneDrive/ProyectoF/ProyectoFinalBiblioteca/src/recursos/imagenes/logo.png</file>
+            <file>file:/C:/Users/carlb/OneDrive/ProyectoF/ProyectoFinalBiblioteca/src/view/reportes/ReportesForm.java</file>
+            <file>file:/C:/Users/carlb/OneDrive/ProyectoF/ProyectoFinalBiblioteca/src/view/reportes/Reporte2/GeneradorPDFSemanal.java</file>
             <file>file:/C:/Users/carlb/OneDrive/ProyectoF/ProyectoFinalBiblioteca/src/service/LibroService.java</file>
-            <file>file:/C:/Users/carlb/OneDrive/ProyectoF/ProyectoFinalBiblioteca/src/util/Conexion.java</file>
+            <file>file:/C:/Users/carlb/OneDrive/ProyectoF/ProyectoFinalBiblioteca/src/view/mantenimiento/LibroMantenimientoForm.java</file>
             <file>file:/C:/Users/carlb/OneDrive/ProyectoF/ProyectoFinalBiblioteca/src/view/mantenimiento/SocioMantenimientoForm.java</file>
             <file>file:/C:/Users/carlb/OneDrive/ProyectoF/ProyectoFinalBiblioteca/src/dao/interfaces/LibroDAO.java</file>
-            <file>file:/C:/Users/carlb/OneDrive/ProyectoF/ProyectoFinalBiblioteca/src/view/mantenimiento/UsuarioMantenimientoForm.java</file>
-            <file>file:/C:/Users/carlb/OneDrive/ProyectoF/ProyectoFinalBiblioteca/src/model/Prestamo.java</file>
-            <file>file:/C:/Users/carlb/OneDrive/ProyectoF/ProyectoFinalBiblioteca/src/dao/interfaces/PrestamoDAO.java</file>
+            <file>file:/C:/Users/carlb/OneDrive/ProyectoF/ProyectoFinalBiblioteca/src/view/DashboardAdmin.java</file>
+            <file>file:/C:/Users/carlb/OneDrive/ProyectoF/ProyectoFinalBiblioteca/src/view/proceso/DevolucionForm.java</file>
+            <file>file:/C:/Users/carlb/OneDrive/ProyectoF/ProyectoFinalBiblioteca/src/view/reportes/Reporte6/GeneradorPDFReporte6.java</file>
             <file>file:/C:/Users/carlb/OneDrive/ProyectoF/ProyectoFinalBiblioteca/src/dao/impl/LibroDAOImpl.java</file>
             <file>file:/C:/Users/carlb/OneDrive/ProyectoF/ProyectoFinalBiblioteca/src/util/TemaCrisol.java</file>
-            <file>file:/C:/Users/carlb/OneDrive/ProyectoF/ProyectoFinalBiblioteca/src/util/SessionManager.java</file>
-            <file>file:/C:/Users/carlb/OneDrive/ProyectoF/ProyectoFinalBiblioteca/src/view/LoginForm.java</file>
-            <file>file:/C:/Users/carlb/OneDrive/ProyectoF/ProyectoFinalBiblioteca/src/model/Libro.java</file>
-            <file>file:/C:/Users/carlb/OneDrive/ProyectoF/ProyectoFinalBiblioteca/src/util/Validaciones.java</file>
-            <file>file:/C:/Users/carlb/OneDrive/ProyectoF/ProyectoFinalBiblioteca/src/service/PrestamoService.java</file>
-            <file>file:/C:/Users/carlb/OneDrive/ProyectoF/ProyectoFinalBiblioteca/src/dao/interfaces/SocioDAO.java</file>
-            <file>file:/C:/Users/carlb/OneDrive/ProyectoF/ProyectoFinalBiblioteca/src/dao/impl/SocioDAOImpl.java</file>
-            <file>file:/C:/Users/carlb/OneDrive/ProyectoF/ProyectoFinalBiblioteca/src/view/mantenimiento/EmpleadoMantenimientoForm.java</file>
-            <file>file:/C:/Users/carlb/OneDrive/ProyectoF/ProyectoFinalBiblioteca/src/util/Mesajes.java</file>
-            <file>file:/C:/Users/carlb/OneDrive/ProyectoF/ProyectoFinalBiblioteca/src/service/SocioService.java</file>
-            <file>file:/C:/Users/carlb/OneDrive/ProyectoF/ProyectoFinalBiblioteca/src/model/Usuario.java</file>
-            <file>file:/C:/Users/carlb/OneDrive/ProyectoF/ProyectoFinalBiblioteca/src/dao/impl/UsuarioDAOImpl.java</file>
-            <file>file:/C:/Users/carlb/OneDrive/ProyectoF/ProyectoFinalBiblioteca/src/view/mantenimiento/LibroMantenimientoForm.java</file>
-            <file>file:/C:/Users/carlb/OneDrive/ProyectoF/ProyectoFinalBiblioteca/src/model/Socio.java</file>
-            <file>file:/C:/Users/carlb/OneDrive/ProyectoF/ProyectoFinalBiblioteca/src/view/DashboardAdmin.java</file>
-            <file>file:/C:/Users/carlb/OneDrive/ProyectoF/ProyectoFinalBiblioteca/src/service/UsuarioService.java</file>
-            <file>file:/C:/Users/carlb/OneDrive/ProyectoF/ProyectoFinalBiblioteca/src/view/proceso/DevolucionForm.java</file>
-            <file>file:/C:/Users/carlb/OneDrive/ProyectoF/ProyectoFinalBiblioteca/src/util/FechaUtil.java</file>
-            <file>file:/C:/Users/carlb/OneDrive/ProyectoF/ProyectoFinalBiblioteca/src/util/CreadorEstructuraCompleta.java</file>
         </group>
     </open-files>
 </project-private>
